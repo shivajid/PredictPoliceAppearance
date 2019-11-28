@@ -12,7 +12,7 @@ This is a Datascience Solution for h2o problem set given for interview pupose.
   - Data Cleansing
   - Feature Selection
   
-  The dataset and files are made available in the following dropbox location
+  The dataset files are made available in the following dropbox location
   https://www.dropbox.com/sh/pnhf2t0pvspttwr/AACSO8QPs6C-GsJXc-6ejqjsa?dl=0
   
   The second file (h2o_exercise_h2o3.ipynb) contains the h2o model experimentation.
