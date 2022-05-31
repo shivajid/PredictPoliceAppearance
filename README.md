@@ -1,5 +1,5 @@
 # h2o
-This is a Datascience Solution for h2o problem set given for interview pupose.
+This is a Datascience Solution for h2o problem.
 
 ## Files
  There are two files for the solution
